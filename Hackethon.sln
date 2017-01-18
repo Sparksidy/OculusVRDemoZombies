@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackethon.Plugins", "Hackethon.Plugins.csproj", "{FC4B8C01-80F5-C94E-30B0-7ED58ED0AE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackethon", "Hackethon.csproj", "{CCBBF2A0-1419-251F-FEE9-19484FDDB72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackethon.Editor.Plugins", "Hackethon.Editor.Plugins.csproj", "{B1749F43-C20D-A9B5-9DDB-43E1B879F074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4B8C01-80F5-C94E-30B0-7ED58ED0AE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC4B8C01-80F5-C94E-30B0-7ED58ED0AE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4B8C01-80F5-C94E-30B0-7ED58ED0AE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4B8C01-80F5-C94E-30B0-7ED58ED0AE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBBF2A0-1419-251F-FEE9-19484FDDB72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBBF2A0-1419-251F-FEE9-19484FDDB72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBBF2A0-1419-251F-FEE9-19484FDDB72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBBF2A0-1419-251F-FEE9-19484FDDB72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1749F43-C20D-A9B5-9DDB-43E1B879F074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1749F43-C20D-A9B5-9DDB-43E1B879F074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1749F43-C20D-A9B5-9DDB-43E1B879F074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1749F43-C20D-A9B5-9DDB-43E1B879F074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
